@@ -48,5 +48,5 @@ This project demonstrates a simple Machine Learning pipeline using **Python**, *
 
 ---
 
-## 📌 About
+## About
 A machine learning project implementing Linear Regression in Python to analyze and predict salaries based on years of experience.
